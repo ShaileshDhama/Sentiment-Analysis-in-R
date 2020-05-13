@@ -21,3 +21,13 @@ These classes can be binary in nature (positive or negative) or, they can have m
 ## SUMMARY
 
 In this project, We went through our project of sentiment analysis in R. We learnt about the concept of sentiment analysis and implemented it over the dataset of Jane Austen’s books. We were able to delineate it through various visualizations after we performed data wrangling on our data. We used a lexical analyzer – ‘bing’ in this instance of our project. Furthermore, We also represented the sentiment score through a plot and also made a visual report of wordcloud.
+
+## EXPLANATION OF COMPLETE PROJECT:-
+
+dplyr is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges:
+
+    mutate() adds new variables that are functions of existing variables
+    select() picks variables based on their names.
+    filter() picks cases based on their values.
+    summarise() reduces multiple values down to a single summary.
+    arrange() changes the ordering of the rows.
