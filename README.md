@@ -24,7 +24,8 @@ In this project, We went through our project of sentiment analysis in R. We lear
 
 ## EXPLANATION OF COMPLETE PROJECT:-
 
-A.Packages Involved:
+### A.Packages Involved:
+
 1.dplyr is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges:
 
     mutate() adds new variables that are functions of existing variables
