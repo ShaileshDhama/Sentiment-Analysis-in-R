@@ -1,39 +1,3 @@
-# Sentiment-Analysis-in-R
-
-
-
-
-
-
-
-## EXPLANATION OF COMPLETE PROJECT:-
-
-### Required Libraries :
-
-1.dplyr is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges:
-
-    mutate() adds new variables that are functions of existing variables
-    select() picks variables based on their names.
-    filter() picks cases based on their values.
-    summarise() reduces multiple values down to a single summary.
-    arrange() changes the ordering of the rows.
-    
-2.'mnormt'- The Multivariate Normal and t Distributions.
-
-3.SnowballC - Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library.
-
-4.broom - takes the messy output of built-in functions in R, such as lm, nls, or t.test, and turns them into tidy data frames.
-
-5.tokenizers - Fast, Consistent Tokenization of Natural Language Text.
-
-6.janeaustenr - provides access to the full texts of Jane Austen’s 6 completed, published novels.
-
-7.ggplot2 -  Create Elegant Data Visualisations Using the Grammar of Graphics.
-
-8.wordcloud - Functionality to create pretty word clouds, visualize differences and similarity between documents, and avoid over-plotting in scatter plots with text.
-
-## B.
-
 # Sentiment Analysis in R
 
 **Author**: SHAILESH DHAMA
