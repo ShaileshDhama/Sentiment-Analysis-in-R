@@ -36,9 +36,9 @@ Before we start with our R project, Let's understand Sentiment Analysis in detai
 
 We will make use of three general purpose lexicons like –
 
-### 1.AFINN
-### 2.bing
-### 3.loughran
+    1.AFINN
+    2.bing
+    3.loughran
 
 These three lexicons make use of the unigrams.
 Unigrams are a type of n-gram model that consists of a sequence of 1 item, that is, a word collected from a given textual data.
